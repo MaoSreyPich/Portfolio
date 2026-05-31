@@ -3,7 +3,6 @@ function Navbar({ page, setPage }) {
     "About",
     "Resume",
     "Portfolio",
-    "Blog",
     "Contact",
   ];
 

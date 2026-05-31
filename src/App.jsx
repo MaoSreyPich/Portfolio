@@ -4,7 +4,6 @@ import Navbar from "./components/Navbar";
 import About from "./components/About";
 import Resume from "./components/Resume";
 import Portfolio from "./components/Portfolio";
-import Blog from "./components/Blog";
 import Contact from "./components/Contact";
 import "./App.css";
 
@@ -21,7 +20,6 @@ function App() {
         {page === "About" && <About />}
         {page === "Resume" && <Resume />}
         {page === "Portfolio" && <Portfolio />}
-        {page === "Blog" && <Blog />}
         {page === "Contact" && <Contact />}
       </div>
     </main>
