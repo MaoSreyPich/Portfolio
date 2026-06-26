@@ -9,9 +9,9 @@ function About() {
         I enjoy building responsive web applications and continuously
         learning new technologies to improve my skills.
       </p>
-
+      <br />
       <h2>What I'm Doing</h2>
-
+      <br />
       <div className="services">
         <div className="card">
           <h3>Frontend Development</h3>
